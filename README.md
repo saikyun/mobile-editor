@@ -7,8 +7,8 @@
 
 ## usage
 
-´´´
+```
 git clone https://github.com/saikyun/mobile-editor
 cd mobile-editor
 freja --dofile main.janet
-´´´
+```
